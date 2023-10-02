@@ -1,5 +1,5 @@
 # SoftwareEngineeringProject
 
--Dt 02/10/2023
---Created repository
---Project started
+### Dt 02/10/2023 Week 3
+- Created repository
+- Project started
